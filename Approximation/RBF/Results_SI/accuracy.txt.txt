@@ -1,0 +1,7 @@
+nx:nh:ny=2:10:1
+epo=100
+learningRateForWeight = 0.01
+learningRateForCenter = 0.001
+learningRateForSigmas = 0.0001
+TrainError=0.0173
+TestError=0.0173
